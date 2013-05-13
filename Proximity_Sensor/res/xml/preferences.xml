@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <ListPreference     android:title="Shortcut"
+                      android:summary="Select the type of shortcut you'd like to open when sensor is covered"
+                      android:key="shortcut"
+                      android:defaultValue="settings"
+                      android:entries="@array/listArray"
+                      android:entryValues="@array/listValues" />  
+</PreferenceScreen>

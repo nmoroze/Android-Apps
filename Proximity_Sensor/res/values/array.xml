@@ -1,0 +1,14 @@
+<resources>
+	<string-array name="listArray">
+	<item>Set phone to vibrate</item>
+	<item>Set phone to silent</item>
+    <item>Open settings</item>
+    <item>Open other</item>
+	</string-array>
+	<string-array name="listValues">
+	<item>vibrate</item>
+	<item>silent</item>
+    <item>settings</item>
+    <item>other</item>
+	</string-array>
+</resources>
